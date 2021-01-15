@@ -1,0 +1,9 @@
+# Modern JAVA
+
+## 210115
+
+- Functional Interface
+  - ...
+- Abstract
+  - ...
+    - ...
