@@ -4,5 +4,9 @@
 
 - Queue
   - FIFO
+  - FIFO
 - Stack
   - LIFO
+- Linked List
+  - Array의 단점인 기본사이즈를 보완
+  - [TODO](). 매일 ArrayList만 쓰지 말고 JAVA의 List를 구현한 녀석들 확인
