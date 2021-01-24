@@ -10,8 +10,9 @@
     - Array의 단점인 기본사이즈를 보완
     - [TODO](https://github.com/cptbong/TBL/blob/main/Algo/ImplementationsOfJavaList.md). 매일 ArrayList만 쓰지 말고 JAVA의 List를 구현한 녀석들 확인
     - Node, Pointer - Node : Data + Pointer - Pointer : 이전, 다음 Node정보
-    - 단순히 구현해보기
-```
+
+- Linked List 구현
+```java
 public class LinkedList {
     public static void main(String[] args) {
         Node node1 = new Node("First node");
@@ -47,10 +48,9 @@ private Node pointer;
     }
 
 }
-```
+```    
 
-    - 단일 Class + add추가
-```
+```java
 public class LinkedList {
     public static void main(String[] args) {
         Node node1 = new Node("First");
@@ -88,4 +88,7 @@ class Node {
     }
 }
 ```
+
+
+- ...
 
