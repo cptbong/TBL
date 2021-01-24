@@ -13,6 +13,7 @@
 
 - Linked List 구현
 ```java
+// 개념만 구현
 public class LinkedList {
     public static void main(String[] args) {
         Node node1 = new Node("First node");
@@ -51,6 +52,7 @@ private Node pointer;
 ```    
 
 ```java
+// 실제 사용을 위한 add구현
 public class LinkedList {
     public static void main(String[] args) {
         Node node1 = new Node("First");
